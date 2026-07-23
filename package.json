@@ -1,0 +1,6 @@
+{
+  "name": "flash-proxy",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
